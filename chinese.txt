@@ -3,3 +3,4 @@ baidu.com
 163.com
 taobao.com
 sohu.com
+qq.com
