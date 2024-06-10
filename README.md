@@ -1,8 +1,12 @@
 # pi-hole-block-list
 
-### Neste repositório você encontrará listas de bloqueio personalizadas para o serviço PiHole. Elas podem ser usadas em serviços semelhantes (AdGuard, Ublock). | English: In this repository you will find custom blacklists for the PiHole service. They can be used on similar services (AdGuard, Ublock). 
+### Português: Neste repositório você encontrará listas de bloqueio personalizadas para o serviço PiHole. Elas podem ser usadas em serviços semelhantes (AdGuard, Ublock). 
 
-### Essas são as listas que uso em meu servidor que filtra os conteúdos da minha rede pessoal, para ajudar a comunidade disponibilizo a lista abaixo, basta pesquisar como inserir links no pi hole e depois de add ao Adlist group management você precisará atualizar a lista de bloqueio em Update Gravity (list of blocked domains) // These are the lists I use on my server to filter the content on my personal network. To help the community, I am sharing the list below. Simply search for how to insert links in Pi-hole and, after adding them to the Adlist group management, you will need to update the block list in Update Gravity (list of blocked domains).
+### English: In this repository you will find custom blacklists for the PiHole service. They can be used on similar services (AdGuard, Ublock). 
+
+### Português: Essas são as listas que uso em meu servidor que filtra os conteúdos da minha rede pessoal, para ajudar a comunidade disponibilizo a lista abaixo, basta pesquisar como inserir links no pi hole e depois de add ao Adlist group management você precisará atualizar a lista de bloqueio em Update Gravity (list of blocked domains)
+
+### English: These are the lists I use on my server to filter the content on my personal network. To help the community, I am sharing the list below. Simply search for how to insert links in Pi-hole and, after adding them to the Adlist group management, you will need to update the block list in Update Gravity (list of blocked domains).
 
 
 
