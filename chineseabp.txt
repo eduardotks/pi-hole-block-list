@@ -117,3 +117,9 @@
 ||new.qq.com^
 ||sports.qq.com^
 ||finance.qq.com^
+||meituan.com^
+||baidu.com^
+||163.com^
+||taobao.com^
+||sohu.com^
+||qq.com^
